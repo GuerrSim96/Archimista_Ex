@@ -4,5 +4,5 @@
   L'<b>Ex</b> nel nome di questa repository è un troncamento della parola inglese <b>extension</b>.
   Questo progetto nasce per sostenere il lavoro dell'archivista, rendendo l'utilizzo del softwere più facile e veloce.
 
-<a href="https://github.com/GuerrSim96/Archimista_Ex/blob/main/compilatore.ipynb"><img src="https://img.shields.io/badge/Compilatore-burlywood?logo=files&labelColor=gray"></a>
+<a href="https://colab.research.google.com/github/GuerrSim96/Archimista_Ex/blob/main/compilatore.ipynb"><img src="https://img.shields.io/badge/Compilatore-burlywood?logo=files&labelColor=gray"></a>
 </p>
