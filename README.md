@@ -11,7 +11,7 @@
 <ul>
   <li> Compilatore
     <a href="https://colab.research.google.com/github/GuerrSim96/Archimista_Ex/blob/main/compilatore.ipynb">
-      <img src="https://img.shields.io/badge/Provami-ivory?logo=wikidata&logoColor=ivory&labelColor=burlywood" width="50px">
+      <img src="https://img.shields.io/badge/Provami!-ivory?logo=wikidata&logoColor=ivory&labelColor=burlywood" width="50px">
     </a>
 </ul>
 </p>
