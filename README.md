@@ -4,9 +4,9 @@
   L'<b>Ex</b> nel nome di questa repository è un troncamento della parola inglese <b>extension</b>.
   Questo progetto nasce per sostenere il lavoro dell'archivista, rendendo l'utilizzo del softwere più facile e veloce.
 </p>
-<h5>
+<h2>
   Lista di estensioni:
-</h5>
+</h2>
 <p>
 <ul>
   <li> Compilatore per la <b>prima redazione</b>
