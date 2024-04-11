@@ -13,5 +13,9 @@
     <a href="https://colab.research.google.com/github/GuerrSim96/Archimista_Ex/blob/main/estensioni/compilatore.ipynb">
       <img src="https://img.shields.io/badge/Provami!-ivory?logo=wikidata&logoColor=ivory&labelColor=burlywood" width="55px">
     </a>
+  </li>
+  <li> Indice dei nomi
+      <img src="https://img.shields.io/badge/Prossimamente-ivory?logo=asblock&logoColor=ivory&labelColor=crimson" width="55px">
+  </li>
 </ul>
 </p>
