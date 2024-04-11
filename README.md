@@ -11,11 +11,11 @@
 <ul>
   <li> Compilatore per la <b>prima redazione</b>
     <a href="https://colab.research.google.com/github/GuerrSim96/Archimista_Ex/blob/main/estensioni/compilatore.ipynb">
-      <img src="https://img.shields.io/badge/Provami!-ivory?logo=wikidata&logoColor=ivory&labelColor=burlywood" width="55px">
+      <img src="https://img.shields.io/badge/Provami!-ivory?logo=wikidata&logoColor=ivory&labelColor=burlywood" height="10px">
     </a>
   </li>
   <li> Indice dei nomi
-      <img src="https://img.shields.io/badge/Prossimamente-ivory?logo=adblock&logoColor=ivory&labelColor=crimson" width="55px">
+      <img src="https://img.shields.io/badge/Prossimamente-ivory?logo=adblock&logoColor=ivory&labelColor=crimson" height="10px">
   </li>
 </ul>
 </p>
