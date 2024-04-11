@@ -15,7 +15,7 @@
     </a>
   </li>
   <li> Indice dei nomi
-      <img src="https://img.shields.io/badge/Prossimamente-ivory?logo=asblock&logoColor=ivory&labelColor=crimson" width="55px">
+      <img src="https://img.shields.io/badge/Prossimamente-ivory?logo=adblock&logoColor=ivory&labelColor=crimson" width="55px">
   </li>
 </ul>
 </p>
