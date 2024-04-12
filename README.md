@@ -11,7 +11,7 @@
 <ul>
   <li> Compilatore per la <b>prima redazione</b>
     <a href="https://colab.research.google.com/github/GuerrSim96/Archimista_Ex/blob/main/estensioni/compilatore.ipynb">
-      <img src="https://img.shields.io/badge/Provami!-ivory?logo=wikidata&logoColor=ivory&labelColor=burlywood" alt="PROVA IL COMPILATORE" height="14px">
+      <img src="https://img.shields.io/badge/Provami!-ivory?logo=googlecolab&logoColor=ivory&labelColor=burlywood" alt="PROVA IL COMPILATORE" height="14px">
     </a>
   </li>
   <li> Indice dei nomi
