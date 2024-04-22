@@ -15,7 +15,7 @@
     </a>
   </li>
   <li> Indice dei nomi
-    <a href="https://colab.research.google.com/github/GuerrSim96/Archimista_Ex/blob/main/estensioni/indice_dei_nomi.ipynb">
+    <a href="https://colab.research.google.com/github/GuerrSim96/Archimista_Ex/blob/main/estensioni/indice_nomi.ipynb">
       <img src="https://img.shields.io/badge/Provami!-ivory?logo=googlecolab&logoColor=ivory&labelColor=burlywood" alt="CREA L'INDICE DEI NOMI PER IL TUO INVENTARIO" height="14px">
   </li>
 </ul>
